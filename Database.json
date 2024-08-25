@@ -1,0 +1,106 @@
+{
+  "Flights": [
+    {
+      "airlineLogo": "https://firebasestorage.googleapis.com/v0/b/project199-1.appspot.com/o/DeltaAirline.png?alt=media&token=a2c23a4a-9539-49f8-814b-06a169e3571e",
+      "airlineName": "Delta Airlines",
+      "arriveTime": "2h 45m",
+      "classSeat": "Business class",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "numberSeat": 79,
+      "price": 170.6,
+      "reservedSeats": "D1,B3,B3,F6,E4,D1,D5,A6,A8,E7,F9,D11",
+      "time": "12:54",
+      "to": "LosAngles",
+      "toShort": "LAX"
+    },
+    {
+      "airlineLogo": "https://firebasestorage.googleapis.com/v0/b/project199-1.appspot.com/o/americalAirline.png?alt=media&token=a01a64de-da02-4900-9c0c-8e726aa9941b",
+      "airlineName": "American Airlines",
+      "arriveTime": "2h 30m",
+      "classSeat": "Business class",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "numberSeat": 92,
+      "price": 169.1,
+      "reservedSeats": "D1,B2,B3,F3,E2,D1,D5,A6",
+      "time": "18:20",
+      "to": "LosAngles",
+      "toShort": "LAX"
+    },
+    {
+      "airlineLogo": "https://firebasestorage.googleapis.com/v0/b/project199-1.appspot.com/o/southwestAirline.png?alt=media&token=932e6f7a-e0d7-41fb-9437-40bf73eac6ff",
+      "airlineName": "Southwest Airlines",
+      "arriveTime": "2h 45m",
+      "classSeat": "Business class",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "numberSeat": 91,
+      "price": 159.1,
+      "reservedSeats": "D1,B3,B3,F6,E4,D1,D5,A6",
+      "time": "22:45",
+      "to": "LosAngles",
+      "toShort": "LAX"
+    },
+    {
+      "airlineLogo": "https://firebasestorage.googleapis.com/v0/b/project199-1.appspot.com/o/unitedAirline.png?alt=media&token=471f2c26-1e70-4cc2-aac3-cbfe38e23da1",
+      "airlineName": "United Airlines",
+      "arriveTime": "2h 40m",
+      "classSeat": "Business class",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "numberSeat": 98,
+      "price": 157.35,
+      "reservedSeats": "D1,B2,B3,F3,E2,D1,D5,A6",
+      "time": "23:05",
+      "to": "LosAngles",
+      "toShort": "LAX"
+    }
+  ],
+  "Locations": [
+    {
+      "Id": 0,
+      "Name": "LosAngles"
+    },
+    {
+      "Id": 1,
+      "Name": "NewYork"
+    },
+    {
+      "Id": 2,
+      "Name": "San Francisco"
+    },
+    {
+      "Id": 3,
+      "Name": "Washington, D.C"
+    },
+    {
+      "Id": 4,
+      "Name": "Boston"
+    },
+    {
+      "Id": 5,
+      "Name": "Philadelphia"
+    },
+    {
+      "Id": 6,
+      "Name": "Chicago"
+    },
+    {
+      "Id": 7,
+      "Name": "Las Vegas"
+    },
+    {
+      "Id": 8,
+      "Name": "Miami"
+    },
+    {
+      "Id": 9,
+      "Name": "Seattle"
+    }
+  ]
+}
